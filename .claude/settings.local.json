@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(python3 -c ' *)",
+      "Bash(grep -n \"source {api,csv,html,json}\\\\|--source\\\\b\" README.md)",
+      "Bash(grep -n \"source {api,csv,html,json}\\\\|--source\\\\b\" CHANGELOG.md)",
+      "Bash(grep *)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}

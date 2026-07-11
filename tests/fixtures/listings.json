@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "listing_id": 222222,
+      "title": "Minimalist Japanese Wall Art Print",
+      "url": "https://www.etsy.com/listing/222222/minimalist-japanese-wall-art-print",
+      "price": {"amount": 3200, "divisor": 100, "currency_code": "USD"},
+      "quantity": 3,
+      "tags": ["japanese wall art", "sumi-e", "zen"],
+      "materials": ["washi paper", "ink"],
+      "shop_id": 7001,
+      "shop_name": "ZenPrintStudio",
+      "shop_url": "https://www.etsy.com/shop/ZenPrintStudio",
+      "num_favorers": 128,
+      "featured_rank": 5,
+      "when_made": "2020_2026",
+      "who_made": "i_did",
+      "is_customizable": false,
+      "taxonomy_id": 4321,
+      "creation_timestamp": 1700100000,
+      "last_modified_timestamp": 1750100000,
+      "description": "A hand-printed minimalist wall art piece inspired by Japanese sumi-e.",
+      "images": [
+        {"rank": 0, "url_fullxfull": "https://example.com/img/222222_1.jpg", "hex_code": "#f5f2ec", "brightness": 220}
+      ]
+    },
+    {
+      "listing_id": 222333,
+      "title": "Japanese Cherry Blossom Canvas Print"
+    }
+  ]
+}
